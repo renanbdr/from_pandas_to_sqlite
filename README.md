@@ -1,4 +1,4 @@
-# From Pandas to SQLite
+# From Pandas Dataframe to SQLite
 
 Practicing how to treat and transform a dataframe into useable SQLite's tables and database using Pandas.
 
